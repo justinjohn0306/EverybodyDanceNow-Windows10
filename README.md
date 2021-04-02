@@ -4,7 +4,7 @@ EverybodyDanceNow implementation for Windows 10
 
 
 
-Installtion:
+Installation:
 
 
 conda create -n dancenow python=3.7
