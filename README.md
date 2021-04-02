@@ -1,5 +1,6 @@
 # EverybodyDanceNow-Windows10
-EverybodyDanceNow implementation for Windows 10
+
+This repo is an implementation EverybodyDanceNow repo by Caroline Chan : https://github.com/carolineec/EverybodyDanceNow
 
 
 
