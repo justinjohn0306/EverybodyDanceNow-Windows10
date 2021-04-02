@@ -29,4 +29,8 @@ python train_fullts.py --name ./model_local/ --dataroot ./dataset/train/  --chec
 
 
 
+
+
+
+
 THIS README IS A WORK IN PROGRESS TOO..SO KEEP A WATCH 
