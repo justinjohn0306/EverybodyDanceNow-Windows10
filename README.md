@@ -2,7 +2,8 @@
 
 This repo is an implementation for Windows-10 by Justin John
 
-Original Author and repo can be found here :EverybodyDanceNow repo by Caroline Chan : https://github.com/carolineec/EverybodyDanceNow
+Original Author and repo can be found here :
+EverybodyDanceNow repo by Caroline Chan : https://github.com/carolineec/EverybodyDanceNow
 
 
 
